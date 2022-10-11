@@ -1,4 +1,4 @@
-baseURL: "https://darmajalaya.github.io/"
+baseURL: https://darmajalaya.github.io/
 languageCode: en-us
 title: Darmajalaya
 paginate: 5
