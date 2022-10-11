@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/lorem-ipsum/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/darmajalaya-kamu/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lorem/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/lorem/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/memew/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+  </url>
+  
+</urlset>
