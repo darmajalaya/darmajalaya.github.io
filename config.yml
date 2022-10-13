@@ -37,7 +37,7 @@ params:
   description: "Learn by doing"
   keywords: [Blog, Portfolio, PaperMod]
   author: darmajalaya # author: ["Me", "You"]
-  images: ["static/media/cover.jpg"]
+  images: ["/"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -61,23 +61,23 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "static/favicon.ico"
-    favicon16x16: "static/favicon-16x16.png"
-    favicon32x32: "static/favicon-32x32.png"
-    apple_touch_icon: "static/apple-touch-icon.png"
-    safari_pinned_tab: "safari-pinned-tab.svg"
+    favicon: "icons/favicon.ico"
+    favicon16x16: "icons/favicon-16x16.png"
+    favicon32x32: "icons/favicon-32x32.png"
+    apple_touch_icon: "icons/apple-touch-icon.png"
+    safari_pinned_tab: "icons/iconapi.svg"
 
   label:
     text: "Darmajalaya"
-    icon: /apple-touch-icon.png
+    icon: /icons/iconapi.svg
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Darmajalaya
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "/icons/iconapi.svg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -95,16 +95,14 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
-    - name: buymeacoffee
-      url: "https://buymeacoffee.com"
     - name: facebook
       url: "https://facebook.com"
     - name: github
       url: "https://github.com/"
     - name: discord
       url: "https://discord.com"
-    - name: spotify
-      url: "https://spotify.com"
+    - name: pip
+      url: "https://www.pip.me/darmajalaya.sol"
     - name: youtube
       url: "https://youtube.com"
 
@@ -121,11 +119,13 @@ params:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
+    responsiveImages: false
+    linkFullImages: true
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#  editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html

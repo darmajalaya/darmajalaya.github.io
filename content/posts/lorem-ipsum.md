@@ -29,10 +29,10 @@ cover:
     caption: "memew"
     relative: true
     hidden: false # image posting
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" 
-    appendFilePath: true
+# editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" 
+#    appendFilePath: true
 ---
 
 ## Lorem ipsum
