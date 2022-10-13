@@ -76,7 +76,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Darmajalaya
-    subtitle: "This is subtitle"
+    subtitle: "Learn by doing"
     imageUrl: "/icons/iconapi.svg"
     imageWidth: 120
     imageHeight: 120
