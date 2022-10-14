@@ -4,8 +4,7 @@ layout: "privacy"
 # url: "/privacy/"
 summary: "privacy"
 ---
-Privacy Policy for https://darmajalaya.github.io
-================================================
+**Privacy Policy** for https://darmajalaya.github.io
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at darmajalaya@gmail.com.
 

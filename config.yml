@@ -35,8 +35,8 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Darmajalaya
   description: "Learn by doing"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: darmajalaya # author: ["Me", "You"]
+  keywords: [Blog, Portfolio, Tutorials, Hugo, Website Static Site, PaperMod]
+  author: darmajalaya 
   images: ["/"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -76,16 +76,22 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Darmajalaya
-    subtitle: "This is subtitle"
+    subtitle: "Learn by doing"
     imageUrl: "/icons/iconapi.svg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: darmajalaya
     buttons:
-      - name: Posts
+      - name: Blog
         url: posts
-      - name: Tags
-        url: tags
+      - name: About
+        url: about
+    #  - name: Tutorials
+    #    url: tags
+    #  - name: Projects
+    #    url: categories
+    #  - name: About
+    #    url: about
 
   # home-info mode
   homeInfoParams:
@@ -94,17 +100,15 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
+      url: "https://twitter.com/darmajalaya"
     - name: facebook
-      url: "https://facebook.com"
+      url: "https://facebook.com/darmajalaya"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com//darmajalaya"
     - name: discord
-      url: "https://discord.com"
+      url: "https://discord.com/darmajalaya#2947"
     - name: pip
       url: "https://www.pip.me/darmajalaya.sol"
-    - name: youtube
-      url: "https://youtube.com"
 
   analytics:
     google:

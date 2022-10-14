@@ -5,7 +5,7 @@ date: 2022-10-11
 weight: 1
 tags: ["lorem"]
 categories: ["lorem", "memew"]
-author: "darmajalaya & kamu"
+author: "darmajalaya"
 showToc: true
 TocOpen: false
 hidemeta: false
@@ -45,3 +45,15 @@ Nisl condimentum id venenatis a. Nulla pharetra diam sit amet nisl suscipit adip
 Nam libero justo laoreet sit amet cursus. Amet massa vitae tortor condimentum lacinia quis vel eros donec. Consequat id porta nibh venenatis. Pharetra convallis posuere morbi leo urna molestie at elementum eu. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Sed elementum tempus egestas sed sed risus. Nibh tellus molestie nunc non blandit massa enim nec dui. Ut enim blandit volutpat maecenas. At in tellus integer feugiat scelerisque varius. Venenatis urna cursus eget nunc scelerisque viverra mauris. Fermentum dui faucibus in ornare. Fringilla urna porttitor rhoncus dolor purus non enim praesent. Urna nunc id cursus metus aliquam eleifend mi in. A diam sollicitudin tempor id eu nisl nunc mi ipsum. Facilisis leo vel fringilla est ullamcorper eget nulla. Eu ultrices vitae auctor eu augue ut lectus. Sed sed risus pretium quam vulputate.
 
 Nibh tellus molestie nunc non. Tortor id aliquet lectus proin nibh nisl. Ac feugiat sed lectus vestibulum mattis ullamcorper velit sed ullamcorper. Ultrices eros in cursus turpis massa tincidunt dui. Hendrerit dolor magna eget est lorem ipsum dolor. Molestie nunc non blandit massa enim nec dui nunc mattis. Habitasse platea dictumst quisque sagittis purus sit amet volutpat. Quis commodo odio aenean sed. Id leo in vitae turpis massa sed elementum. Odio eu feugiat pretium nibh ipsum consequat nisl vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Ultricies leo integer malesuada nunc vel risus commodo. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Nibh cras pulvinar mattis nunc sed. Maecenas pharetra convallis posuere morbi leo urna molestie at. Ipsum suspendisse ultrices gravida dictum fusce. Id cursus metus aliquam eleifend. A diam maecenas sed enim ut sem viverra aliquet eget.
+
+```
+---
+title: "Search" # in any language you want
+layout: "search" # is necessary
+# url: "/archive"
+# description: "Description for Search"
+summary: "search"
+placeholder: "placeholder text in search input box"
+---
+
+```
