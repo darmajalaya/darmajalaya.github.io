@@ -5,27 +5,18 @@
     <link>https://darmajalaya.github.io/categories/</link>
     <description>Recent content in Categories on Darmajalaya</description>
     <image>
-      <url>https://darmajalaya.github.io/</url>
-      <link>https://darmajalaya.github.io/</link>
+      <url>https://darmajalaya.github.io/icons/iconapi.svg</url>
+      <link>https://darmajalaya.github.io/icons/iconapi.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darmajalaya.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>lorem</title>
-      <link>https://darmajalaya.github.io/categories/lorem/</link>
+      <title>Tutorials</title>
+      <link>https://darmajalaya.github.io/categories/tutorials/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://darmajalaya.github.io/categories/lorem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>memew</title>
-      <link>https://darmajalaya.github.io/categories/memew/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://darmajalaya.github.io/categories/memew/</guid>
+      <guid>https://darmajalaya.github.io/categories/tutorials/</guid>
       <description></description>
     </item>
     

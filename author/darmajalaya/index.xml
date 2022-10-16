@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>memew on Darmajalaya</title>
-    <link>https://darmajalaya.github.io/categories/memew/</link>
-    <description>Recent content in memew on Darmajalaya</description>
+    <title>darmajalaya on Darmajalaya</title>
+    <link>https://darmajalaya.github.io/author/darmajalaya/</link>
+    <description>Recent content in darmajalaya on Darmajalaya</description>
     <image>
-      <url>https://darmajalaya.github.io/</url>
-      <link>https://darmajalaya.github.io/</link>
+      <url>https://darmajalaya.github.io/icons/iconapi.svg</url>
+      <link>https://darmajalaya.github.io/icons/iconapi.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darmajalaya.github.io/categories/memew/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://darmajalaya.github.io/author/darmajalaya/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem Ipsum</title>
       <link>https://darmajalaya.github.io/posts/lorem-ipsum/</link>
