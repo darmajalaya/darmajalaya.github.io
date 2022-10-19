@@ -70,7 +70,7 @@ params:
   label:
     text: "Darmajalaya"
     icon: /icons/iconapi.svg
-    iconHeight: 30
+    iconHeight: 25
 
   # profile-mode
   profileMode:
